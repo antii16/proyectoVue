@@ -27,8 +27,9 @@ npm run dev
 ```sh
 npm run build
 ```
+
+### URL de produccion: https://cursosonline-11627.web.app
 ### OBSERVACIONES:
-### - El comando npm run build fue lanzado para produccion. He seguido los pasos para que se realizara, pero no lo he conseguido
 
 ### - El preload ha sido probado en otros proyectos de prueba, pero no ha funcionado. 
 ### - En el apartado de los pdfs, cuando se sube un archivo al storage, la url se guarda en una variable y luego se podría mostrar. He seguido los pasos de la documentación, pero no ha funcionado. Se sube el archivo, pero no se descarga para que el usuario lo vea
